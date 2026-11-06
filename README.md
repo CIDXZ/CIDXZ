@@ -11,7 +11,6 @@ Andhra University.
 
 | Project | What it is |
 |---|---|
-| [Wordy](https://github.com/CIDXZ/wordy) | A voice tutor that teaches a word, then listens to you use it in a sentence. Browser speech in and out, a Groq model judging each answer. [Try it live](https://wordy-tutor.netlify.app) |
 | [hybrid-pqc-encryptor](https://github.com/CIDXZ/hybrid-pqc-encryptor) | Enigma, AES and Kyber (ML-KEM) stacked together, asking what modern key exchange would have done for Enigma |
 | [amazon-review-legitimacy](https://github.com/CIDXZ/amazon-review-legitimacy) | Scrapes a product's reviews and scores how genuine each one looks, using BERT |
 | [torn-stock-monitor](https://github.com/CIDXZ/torn-stock-monitor) | Discord bot that watches a game stock portfolio and tells me when selling is worth it after tax |
